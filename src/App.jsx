@@ -20,7 +20,7 @@ function App() {
       </div>
 
       <a
-        href="https://wa.me/918827573086"
+        href="https://wa.me/918878366225"
         target="_blank"
         rel="noopener noreferrer"
         className="whatsapp-btn"
