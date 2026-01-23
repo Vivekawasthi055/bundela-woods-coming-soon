@@ -18,7 +18,23 @@ function App() {
           bundelawoodskhajuraho@gmail.com
         </a>
       </div>
+      <a
+        href="https://www.booking.com/hotel/in/bundela-woods-cottage-and-restaurant.en-gb.html"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="btn"
+      >
+        <strong>BOOK YOUR STAY</strong>
 
+        <div id="container-stars">
+          <div id="stars"></div>
+        </div>
+
+        <div id="glow">
+          <div className="circle"></div>
+          <div className="circle"></div>
+        </div>
+      </a>
       <a
         href="https://wa.me/918878366225"
         target="_blank"
