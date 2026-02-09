@@ -1,6 +1,8 @@
 function App() {
   return (
     <div className="card">
+      <img src="/woods-logo.png" alt="Bundela Woods Logo" className="logo" />
+
       <h1>
         Bundela Woods Cottage <br /> and Restaurant
       </h1>
